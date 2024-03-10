@@ -18,7 +18,7 @@ The problem is to find a plan (a sequence of moves) to achieve the arrangement, 
 
 Here's a possible input, its visualization, and a possible output. n=5, m=6, positions for boxes of size 1: (2, 1), (2, 4), position for the box of size 2: (2, 3).
 
-
+![task](task.jpg)
 
 
 ## Solutions
