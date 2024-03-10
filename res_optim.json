@@ -1,0 +1,575 @@
+{
+    "asp": [
+        {
+            "filename": "data_asp_n6_m8_b4_bxl1_maxL2_t15_1.lp",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 9,
+            "solution": "boardX(6) boardY(8) move(1,d,0) move(3,d,1) move(4,d,2) move(4,r,3) move(4,r,4) move(4,d,5) move(2,d,6) move(3,d,7) move(4,d,8) finalPos(1,2,1,1) finalPos(2,1,3,1) finalPos(3,1,5,1) finalPos(4,1,4,1)",
+            "time": 2.359706163406372
+        },
+        {
+            "filename": "data_asp_n6_m8_b6_bxl1_maxL2_t15_0.lp",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 11,
+            "solution": "boardX(6) boardY(8) move(6,r,0) move(1,d,1) move(3,r,2) move(5,d,3) move(3,d,4) move(4,d,5) move(1,l,6) move(1,d,7) move(1,d,8) move(1,d,9) move(6,d,10) finalPos(1,2,1,1) finalPos(2,1,3,1) finalPos(3,1,4,1) finalPos(4,1,5,1) finalPos(5,1,6,1) finalPos(6,1,3,2)",
+            "time": 20.905441522598267
+        },
+        {
+            "filename": "data_asp_n8_m10_b6_bxl1_maxL2_t45_1.lp",
+            "foundSol": true,
+            "isOptimum": false,
+            "optimum": 23,
+            "solution": "boardX(8) boardY(10) move(5,d,0) move(5,l,1) move(5,l,2) move(3,d,3) move(4,l,4) move(6,d,5) move(5,d,6) move(3,l,7) move(4,d,8) move(2,d,9) move(5,d,10) move(2,d,11) move(2,d,12) move(5,l,13) move(1,d,14) move(1,l,15) move(1,d,16) move(1,d,17) move(5,d,18) move(2,l,19) move(2,d,20) move(2,d,21) move(6,d,22) finalPos(1,2,1,1) finalPos(2,1,4,1) finalPos(3,1,5,1) finalPos(4,1,6,1) finalPos(5,1,3,1) finalPos(6,1,7,1)",
+            "time": 600.0046494007111
+        },
+        {
+            "filename": "data_asp_n8_m10_b4_bxl1_maxL2_t15_0.lp",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 9,
+            "solution": "boardX(8) boardY(10) move(3,d,0) move(3,l,1) move(3,l,2) move(1,l,3) move(1,d,4) move(4,d,5) move(4,d,6) move(2,l,7) move(2,d,8) finalPos(1,2,1,1) finalPos(2,1,3,1) finalPos(3,1,4,1) finalPos(4,1,5,1)",
+            "time": 3.606135845184326
+        },
+        {
+            "filename": "data_asp_n8_m10_b4_bxl1_maxL2_t45_1.lp",
+            "foundSol": true,
+            "isOptimum": false,
+            "optimum": 17,
+            "solution": "boardX(8) boardY(10) move(1,d,0) move(3,l,1) move(4,d,2) move(4,d,3) move(3,l,4) move(1,d,5) move(2,l,6) move(1,d,7) move(1,l,8) move(2,d,9) move(3,d,10) move(2,l,11) move(3,l,12) move(4,l,13) move(1,d,14) move(2,d,15) move(4,l,16) finalPos(1,2,1,1) finalPos(2,1,4,1) finalPos(3,1,3,1) finalPos(4,1,5,1)",
+            "time": 600.0046761035919
+        },
+        {
+            "filename": "data_asp_n6_m8_b4_bxl1_maxL2_t45_0.lp",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 14,
+            "solution": "boardX(6) boardY(8) move(2,l,0) move(1,d,1) move(3,d,2) move(3,d,3) move(4,l,4) move(1,d,5) move(4,d,6) move(2,d,7) move(4,d,8) move(1,d,9) move(2,d,10) move(3,d,11) move(3,d,12) move(3,d,13) finalPos(1,2,2,1) finalPos(2,1,1,1) finalPos(3,1,5,1) finalPos(4,1,4,1)",
+            "time": 212.08625030517578
+        },
+        {
+            "filename": "data_asp_n8_m10_b6_bxl1_maxL2_t15_1.lp",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 9,
+            "solution": "boardX(8) boardY(10) move(5,l,0) move(6,d,1) move(1,l,2) move(2,d,3) move(1,d,4) move(3,d,5) move(3,d,6) move(4,d,7) move(1,d,8) finalPos(1,2,1,1) finalPos(2,1,3,1) finalPos(3,1,4,1) finalPos(4,1,5,1) finalPos(5,1,6,1) finalPos(6,1,7,1)",
+            "time": 10.474561929702759
+        },
+        {
+            "filename": "data_asp_n6_m8_b8_bxl1_maxL2_t30_0.lp",
+            "foundSol": true,
+            "isOptimum": false,
+            "optimum": 18,
+            "solution": "boardX(6) boardY(8) move(6,d,0) move(1,d,1) move(2,d,2) move(1,d,3) move(5,r,4) move(5,r,5) move(7,d,6) move(8,l,7) move(7,d,8) move(8,d,9) move(4,d,10) move(4,d,11) move(1,d,12) move(5,d,13) move(6,d,14) move(6,d,15) move(1,d,16) move(5,d,17) finalPos(1,2,1,1) finalPos(2,1,3,1) finalPos(3,1,5,1) finalPos(4,1,4,2) finalPos(5,1,6,1) finalPos(6,1,3,2) finalPos(7,1,5,2) finalPos(8,1,4,1)",
+            "time": 600.0046896934509
+        },
+        {
+            "filename": "data_asp_n8_m10_b6_bxl1_maxL2_t45_0.lp",
+            "foundSol": true,
+            "isOptimum": false,
+            "optimum": 14,
+            "solution": "boardX(8) boardY(10) move(2,l,0) move(3,l,1) move(6,l,2) move(5,d,3) move(4,d,4) move(4,d,5) move(4,d,6) move(3,d,7) move(1,d,8) move(1,d,9) move(5,d,10) move(4,d,11) move(3,d,12) move(2,d,13) finalPos(1,2,2,1) finalPos(2,1,1,1) finalPos(3,1,4,1) finalPos(4,1,5,1) finalPos(5,1,7,1) finalPos(6,1,6,1)",
+            "time": 600.0047442913055
+        },
+        {
+            "filename": "data_asp_n6_m8_b6_bxl1_maxL2_t45_1.lp",
+            "foundSol": true,
+            "isOptimum": false,
+            "optimum": 21,
+            "solution": "boardX(6) boardY(8) move(1,l,0) move(2,d,1) move(4,d,2) move(1,l,3) move(6,r,4) move(4,d,5) move(4,r,6) move(5,d,7) move(5,d,8) move(1,d,9) move(6,d,10) move(1,d,11) move(1,d,12) move(3,d,13) move(5,d,14) move(3,d,15) move(3,d,16) move(3,d,17) move(3,d,18) move(5,d,19) move(3,d,20) finalPos(1,2,1,1) finalPos(2,1,3,1) finalPos(3,1,4,1) finalPos(4,1,6,1) finalPos(5,1,5,1) finalPos(6,1,3,2)",
+            "time": 600.0054109096527
+        },
+        {
+            "filename": "data_asp_n8_m10_b6_bxl1_maxL2_t30_0.lp",
+            "foundSol": true,
+            "isOptimum": false,
+            "optimum": 20,
+            "solution": "boardX(8) boardY(10) move(4,r,0) move(4,r,1) move(6,d,2) move(1,l,3) move(5,d,4) move(3,l,5) move(5,d,6) move(1,d,7) move(6,d,8) move(1,l,9) move(6,d,10) move(1,l,11) move(5,d,12) move(1,d,13) move(4,d,14) move(1,d,15) move(1,d,16) move(4,d,17) move(2,d,18) move(1,d,19) finalPos(1,2,1,1) finalPos(2,1,4,1) finalPos(3,1,3,1) finalPos(4,1,7,1) finalPos(5,1,5,1) finalPos(6,1,6,1)",
+            "time": 600.0045485496521
+        },
+        {
+            "filename": "data_asp_n6_m8_b8_bxl1_maxL2_t15_1.lp",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 12,
+            "solution": "boardX(6) boardY(8) move(2,l,0) move(1,d,1) move(7,d,2) move(7,d,3) move(5,r,4) move(5,d,5) move(7,d,6) move(7,d,7) move(8,d,8) move(6,d,9) move(7,l,10) move(7,d,11) finalPos(1,2,2,1) finalPos(2,1,1,1) finalPos(3,1,4,1) finalPos(4,1,5,1) finalPos(5,1,6,1) finalPos(6,1,4,2) finalPos(7,1,1,2) finalPos(8,1,5,2)",
+            "time": 25.004099369049072
+        },
+        {
+            "filename": "data_asp_n6_m8_b8_bxl1_maxL2_t45_1.lp",
+            "foundSol": true,
+            "isOptimum": false,
+            "optimum": 17,
+            "solution": "boardX(6) boardY(8) move(4,l,0) move(3,d,1) move(1,l,2) move(1,l,3) move(8,d,4) move(1,d,5) move(7,d,6) move(6,d,7) move(5,d,8) move(8,d,9) move(5,d,10) move(8,d,11) move(8,d,12) move(6,d,13) move(8,d,14) move(7,d,15) move(6,d,16) finalPos(1,2,1,1) finalPos(2,1,3,1) finalPos(3,1,5,1) finalPos(4,1,4,1) finalPos(5,1,6,1) finalPos(6,1,3,2) finalPos(7,1,4,2) finalPos(8,1,5,2)",
+            "time": 600.0047707557678
+        },
+        {
+            "filename": "data_asp_n6_m8_b6_bxl1_maxL2_t45_0.lp",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 15,
+            "solution": "boardX(6) boardY(8) move(2,d,0) move(6,d,1) move(2,d,2) move(6,d,3) move(6,d,4) move(6,d,5) move(2,d,6) move(1,l,7) move(6,d,8) move(3,r,9) move(2,d,10) move(6,d,11) move(2,d,12) move(1,d,13) move(5,d,14) finalPos(1,2,1,1) finalPos(2,1,3,2) finalPos(3,1,3,1) finalPos(4,1,4,1) finalPos(5,1,6,1) finalPos(6,1,5,1)",
+            "time": 275.13505125045776
+        },
+        {
+            "filename": "data_asp_n6_m8_b8_bxl1_maxL2_t30_1.lp",
+            "foundSol": true,
+            "isOptimum": false,
+            "optimum": 16,
+            "solution": "boardX(6) boardY(8) move(7,d,0) move(7,r,1) move(4,d,2) move(7,d,3) move(4,d,4) move(8,r,5) move(7,d,6) move(2,r,7) move(7,d,8) move(1,d,9) move(3,d,10) move(8,d,11) move(6,d,12) move(1,d,13) move(5,d,14) move(6,d,15) finalPos(1,2,1,1) finalPos(2,1,3,1) finalPos(3,1,4,1) finalPos(4,1,5,1) finalPos(5,1,6,1) finalPos(6,1,4,2) finalPos(7,1,3,2) finalPos(8,1,5,2)",
+            "time": 600.0046172142029
+        },
+        {
+            "filename": "data_asp_n8_m10_b8_bxl1_maxL2_t15_1.lp",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 9,
+            "solution": "boardX(8) boardY(10) move(5,l,0) move(5,d,1) move(3,d,2) move(2,d,3) move(8,d,4) move(5,d,5) move(3,l,6) move(3,l,7) move(1,d,8) finalPos(1,2,1,1) finalPos(2,1,3,1) finalPos(3,1,3,2) finalPos(4,1,5,1) finalPos(5,1,6,1) finalPos(6,1,7,1) finalPos(7,1,8,1) finalPos(8,1,4,1)",
+            "time": 8.053581714630127
+        },
+        {
+            "filename": "data_asp_n8_m10_b8_bxl1_maxL2_t45_1.lp",
+            "foundSol": true,
+            "isOptimum": false,
+            "optimum": 39,
+            "solution": "boardX(8) boardY(10) move(5,l,0) move(8,l,1) move(3,l,2) move(7,u,3) move(2,l,4) move(4,d,5) move(4,l,6) move(4,l,7) move(6,r,8) move(4,d,9) move(4,d,10) move(1,r,11) move(4,d,12) move(4,d,13) move(5,r,14) move(4,r,15) move(5,r,16) move(4,d,17) move(5,d,18) move(8,r,19) move(5,d,20) move(1,l,21) move(8,d,22) move(1,l,23) move(8,d,24) move(1,l,25) move(1,d,26) move(1,d,27) move(7,d,28) move(6,d,29) move(1,d,30) move(4,d,31) move(8,d,32) move(7,d,33) move(3,l,34) move(7,d,35) move(7,d,36) move(8,d,37) move(8,d,38) finalPos(1,2,1,1) finalPos(2,1,4,1) finalPos(3,1,3,2) finalPos(4,1,3,1) finalPos(5,1,6,1) finalPos(6,1,8,1) finalPos(7,1,7,1) finalPos(8,1,5,1)",
+            "time": 600.0054452419281
+        },
+        {
+            "filename": "data_asp_n8_m10_b8_bxl1_maxL2_t30_1.lp",
+            "foundSol": true,
+            "isOptimum": false,
+            "optimum": 21,
+            "solution": "boardX(8) boardY(10) move(7,l,0) move(4,d,1) move(6,d,2) move(2,l,3) move(5,r,4) move(5,d,5) move(5,d,6) move(8,d,7) move(6,d,8) move(7,d,9) move(7,l,10) move(6,d,11) move(8,d,12) move(1,d,13) move(5,d,14) move(6,d,15) move(6,d,16) move(1,d,17) move(3,l,18) move(1,l,19) move(1,d,20) finalPos(1,2,2,1) finalPos(2,1,1,2) finalPos(3,1,1,1) finalPos(4,1,4,1) finalPos(5,1,8,1) finalPos(6,1,6,1) finalPos(7,1,5,1) finalPos(8,1,7,1)",
+            "time": 600.0045733451843
+        },
+        {
+            "filename": "data_asp_n6_m8_b8_bxl1_maxL2_t45_0.lp",
+            "foundSol": true,
+            "isOptimum": false,
+            "optimum": 18,
+            "solution": "boardX(6) boardY(8) move(3,d,0) move(8,d,1) move(6,l,2) move(2,l,3) move(2,d,4) move(7,r,5) move(6,d,6) move(2,d,7) move(8,r,8) move(7,d,9) move(8,d,10) move(2,d,11) move(5,d,12) move(8,d,13) move(6,d,14) move(8,d,15) move(6,d,16) move(6,d,17) finalPos(1,2,2,1) finalPos(2,1,1,1) finalPos(3,1,4,1) finalPos(4,1,5,1) finalPos(5,1,5,2) finalPos(6,1,1,2) finalPos(7,1,4,2) finalPos(8,1,6,1)",
+            "time": 600.0048048496246
+        },
+        {
+            "filename": "data_asp_n8_m10_b8_bxl1_maxL2_t15_0.lp",
+            "foundSol": true,
+            "isOptimum": false,
+            "optimum": 12,
+            "solution": "boardX(8) boardY(10) move(5,d,0) move(7,r,1) move(8,l,2) move(6,d,3) move(7,d,4) move(1,d,5) move(6,d,6) move(1,d,7) move(1,d,8) move(2,l,9) move(1,d,10) move(3,d,11) finalPos(1,2,2,1) finalPos(2,1,1,1) finalPos(3,1,4,1) finalPos(4,1,5,1) finalPos(5,1,6,1) finalPos(6,1,7,1) finalPos(7,1,8,1) finalPos(8,1,1,2)",
+            "time": 600.0046350955963
+        },
+        {
+            "filename": "data_asp_n6_m8_b4_bxl1_maxL2_t30_1.lp",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 14,
+            "solution": "boardX(6) boardY(8) move(2,d,0) move(1,d,1) move(1,l,2) move(3,d,3) move(2,d,4) move(4,d,5) move(1,d,6) move(3,d,7) move(1,d,8) move(3,d,9) move(3,r,10) move(3,d,11) move(3,d,12) move(1,d,13) finalPos(1,2,1,1) finalPos(2,1,3,1) finalPos(3,1,5,1) finalPos(4,1,4,1)",
+            "time": 159.65907549858093
+        },
+        {
+            "filename": "data_asp_n6_m8_b4_bxl1_maxL2_t45_1.lp",
+            "foundSol": true,
+            "isOptimum": false,
+            "optimum": 15,
+            "solution": "boardX(6) boardY(8) move(1,d,0) move(2,d,1) move(1,d,2) move(4,d,3) move(2,d,4) move(3,d,5) move(2,d,6) move(2,d,7) move(1,d,8) move(3,l,9) move(1,d,10) move(3,l,11) move(1,d,12) move(4,d,13) move(4,d,14) finalPos(1,2,3,1) finalPos(2,1,5,1) finalPos(3,1,1,1) finalPos(4,1,2,1)",
+            "time": 600.0046281814575
+        },
+        {
+            "filename": "data_asp_n8_m10_b6_bxl1_maxL2_t30_1.lp",
+            "foundSol": true,
+            "isOptimum": false,
+            "optimum": 14,
+            "solution": "boardX(8) boardY(10) move(1,l,0) move(6,d,1) move(6,d,2) move(4,l,3) move(5,r,4) move(4,d,5) move(4,d,6) move(1,l,7) move(5,r,8) move(6,d,9) move(6,d,10) move(2,d,11) move(4,d,12) move(1,d,13) finalPos(1,2,1,1) finalPos(2,1,5,1) finalPos(3,1,3,1) finalPos(4,1,4,1) finalPos(5,1,7,1) finalPos(6,1,6,1)",
+            "time": 600.004501581192
+        },
+        {
+            "filename": "data_asp_n8_m10_b8_bxl1_maxL2_t30_0.lp",
+            "foundSol": true,
+            "isOptimum": false,
+            "optimum": 20,
+            "solution": "boardX(8) boardY(10) move(8,d,0) move(7,d,1) move(6,r,2) move(7,d,3) move(6,d,4) move(6,d,5) move(8,r,6) move(3,d,7) move(7,d,8) move(3,d,9) move(8,d,10) move(5,d,11) move(4,l,12) move(8,d,13) move(5,d,14) move(4,d,15) move(7,d,16) move(5,d,17) move(7,d,18) move(5,d,19) finalPos(1,2,1,1) finalPos(2,1,3,1) finalPos(3,1,4,1) finalPos(4,1,6,1) finalPos(5,1,5,1) finalPos(6,1,8,1) finalPos(7,1,7,1) finalPos(8,1,3,2)",
+            "time": 600.0046412944794
+        },
+        {
+            "filename": "data_asp_n8_m10_b6_bxl1_maxL2_t15_0.lp",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 13,
+            "solution": "boardX(8) boardY(10) move(2,d,0) move(6,d,1) move(2,d,2) move(5,d,3) move(5,d,4) move(3,d,5) move(4,d,6) move(5,d,7) move(6,d,8) move(4,r,9) move(3,d,10) move(6,d,11) move(6,d,12) finalPos(1,2,1,1) finalPos(2,1,3,1) finalPos(3,1,4,1) finalPos(4,1,6,1) finalPos(5,1,7,1) finalPos(6,1,5,1)",
+            "time": 163.4804241657257
+        },
+        {
+            "filename": "data_asp_n8_m10_b4_bxl1_maxL2_t15_1.lp",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 10,
+            "solution": "boardX(8) boardY(10) move(1,d,0) move(3,d,1) move(4,l,2) move(2,d,3) move(3,d,4) move(2,d,5) move(1,l,6) move(3,l,7) move(2,l,8) move(1,d,9) finalPos(1,2,2,1) finalPos(2,1,1,1) finalPos(3,1,5,1) finalPos(4,1,4,1)",
+            "time": 6.188151121139526
+        },
+        {
+            "filename": "data_asp_n6_m8_b8_bxl1_maxL2_t15_0.lp",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 9,
+            "solution": "boardX(6) boardY(8) move(1,l,0) move(2,d,1) move(6,r,2) move(8,d,3) move(7,d,4) move(7,d,5) move(5,d,6) move(1,d,7) move(1,d,8) finalPos(1,2,1,1) finalPos(2,1,3,1) finalPos(3,1,4,1) finalPos(4,1,5,1) finalPos(5,1,6,1) finalPos(6,1,3,2) finalPos(7,1,4,2) finalPos(8,1,5,2)",
+            "time": 4.271092653274536
+        },
+        {
+            "filename": "data_asp_n6_m8_b4_bxl1_maxL2_t30_0.lp",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 10,
+            "solution": "boardX(6) boardY(8) move(3,d,0) move(1,d,1) move(4,d,2) move(3,d,3) move(4,l,4) move(3,d,5) move(2,r,6) move(3,d,7) move(3,d,8) move(1,d,9) finalPos(1,2,3,1) finalPos(2,1,5,1) finalPos(3,1,2,1) finalPos(4,1,1,1)",
+            "time": 6.495318174362183
+        },
+        {
+            "filename": "data_asp_n8_m10_b4_bxl1_maxL2_t30_0.lp",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 13,
+            "solution": "boardX(8) boardY(10) move(4,l,0) move(2,d,1) move(2,d,2) move(2,d,3) move(4,d,4) move(2,l,5) move(4,d,6) move(4,d,7) move(3,l,8) move(1,l,9) move(3,l,10) move(1,d,11) move(3,d,12) finalPos(1,2,2,1) finalPos(2,1,1,1) finalPos(3,1,4,1) finalPos(4,1,5,1)",
+            "time": 232.61744475364685
+        },
+        {
+            "filename": "data_asp_n8_m10_b4_bxl1_maxL2_t45_0.lp",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 15,
+            "solution": "boardX(8) boardY(10) move(4,d,0) move(3,d,1) move(3,d,2) move(3,d,3) move(4,l,4) move(4,l,5) move(3,d,6) move(4,d,7) move(1,d,8) move(2,d,9) move(4,l,10) move(1,d,11) move(3,d,12) move(3,l,13) move(1,d,14) finalPos(1,2,1,1) finalPos(2,1,3,1) finalPos(3,1,5,1) finalPos(4,1,4,1)",
+            "time": 584.4368693828583
+        },
+        {
+            "filename": "data_asp_n8_m10_b4_bxl1_maxL2_t30_1.lp",
+            "foundSol": true,
+            "isOptimum": false,
+            "optimum": 16,
+            "solution": "boardX(8) boardY(10) move(1,l,0) move(2,l,1) move(3,d,2) move(1,d,3) move(3,d,4) move(1,d,5) move(2,d,6) move(2,l,7) move(3,d,8) move(1,d,9) move(1,l,10) move(4,l,11) move(4,l,12) move(3,l,13) move(4,d,14) move(1,d,15) finalPos(1,2,1,1) finalPos(2,1,3,1) finalPos(3,1,4,1) finalPos(4,1,5,1)",
+            "time": 600.004848241806
+        },
+        {
+            "filename": "data_asp_n6_m8_b4_bxl1_maxL2_t15_0.lp",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 9,
+            "solution": "boardX(6) boardY(8) move(1,l,0) move(1,d,1) move(1,d,2) move(4,d,3) move(2,d,4) move(2,r,5) move(1,d,6) move(1,d,7) move(2,d,8) finalPos(1,2,1,1) finalPos(2,1,4,1) finalPos(3,1,3,1) finalPos(4,1,5,1)",
+            "time": 1.2939414978027344
+        },
+        {
+            "filename": "data_asp_n6_m8_b6_bxl1_maxL2_t15_1.lp",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 11,
+            "solution": "boardX(6) boardY(8) move(3,d,0) move(5,r,1) move(2,d,2) move(5,d,3) move(6,d,4) move(2,d,5) move(3,r,6) move(5,d,7) move(3,d,8) move(6,r,9) move(6,d,10) finalPos(1,2,1,1) finalPos(2,1,3,1) finalPos(3,1,5,1) finalPos(4,1,4,1) finalPos(5,1,6,1) finalPos(6,1,3,2)",
+            "time": 17.884226083755493
+        },
+        {
+            "filename": "data_asp_n6_m8_b6_bxl1_maxL2_t30_1.lp",
+            "foundSol": true,
+            "isOptimum": false,
+            "optimum": 16,
+            "solution": "boardX(6) boardY(8) move(2,r,0) move(3,d,1) move(5,d,2) move(6,r,3) move(5,d,4) move(6,d,5) move(6,d,6) move(3,l,7) move(6,d,8) move(1,l,9) move(6,d,10) move(1,d,11) move(4,d,12) move(5,d,13) move(5,d,14) move(6,d,15) finalPos(1,2,1,1) finalPos(2,1,6,1) finalPos(3,1,3,1) finalPos(4,1,5,1) finalPos(5,1,4,1) finalPos(6,1,3,2)",
+            "time": 600.0047385692596
+        },
+        {
+            "filename": "data_asp_n8_m10_b8_bxl1_maxL2_t45_0.lp",
+            "foundSol": true,
+            "isOptimum": false,
+            "optimum": 19,
+            "solution": "boardX(8) boardY(10) move(5,r,0) move(6,r,1) move(7,d,2) move(6,d,3) move(1,d,4) move(3,r,5) move(4,d,6) move(4,d,7) move(8,d,8) move(8,d,9) move(4,l,10) move(3,d,11) move(4,d,12) move(3,d,13) move(4,d,14) move(6,d,15) move(2,d,16) move(4,d,17) move(3,d,18) finalPos(1,2,1,1) finalPos(2,1,5,1) finalPos(3,1,4,1) finalPos(4,1,3,2) finalPos(5,1,6,1) finalPos(6,1,8,1) finalPos(7,1,7,1) finalPos(8,1,3,1)",
+            "time": 600.0046932697296
+        },
+        {
+            "filename": "data_asp_n6_m8_b6_bxl1_maxL2_t30_0.lp",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 12,
+            "solution": "boardX(6) boardY(8) move(3,d,0) move(4,r,1) move(5,d,2) move(5,d,3) move(4,d,4) move(1,d,5) move(1,l,6) move(1,d,7) move(1,d,8) move(5,r,9) move(5,d,10) move(5,d,11) finalPos(1,2,1,1) finalPos(2,1,3,1) finalPos(3,1,4,1) finalPos(4,1,6,1) finalPos(5,1,5,1) finalPos(6,1,3,2)",
+            "time": 87.49471759796143
+        }
+    ],
+    "minizinc": [
+        {
+            "filename": "data_mzn_n8_m10_b8_bxl1_maxL2_t15_1.dzn",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 9,
+            "solution": "2 D, 1 D, 8 D, 5 L, 5 D, 3 L, 3 L, 5 D, 3 D, ",
+            "time": 10.256642818450928
+        },
+        {
+            "filename": "data_mzn_n8_m10_b8_bxl1_maxL2_t45_0.dzn",
+            "foundSol": true,
+            "isOptimum": false,
+            "optimum": 23,
+            "solution": "7 R, 2 R, 2 R, 1 D, 8 R, 8 R, 6 L, 2 D, 5 L, 5 L, 8 D, 8 D, 7 D, 6 D, 6 D, 4 D, 4 D, 4 D, 4 D, 3 D, 4 D, 4 D, 3 D, ",
+            "time": 600.4081766605377
+        },
+        {
+            "filename": "data_mzn_n8_m10_b6_bxl1_maxL2_t15_1.dzn",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 9,
+            "solution": "1 L, 1 D, 1 D, 2 D, 3 D, 3 D, 4 D, 5 L, 6 D, ",
+            "time": 2.203756093978882
+        },
+        {
+            "filename": "data_mzn_n6_m8_b6_bxl1_maxL2_t15_0.dzn",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 11,
+            "solution": "6 R, 4 D, 1 D, 6 R, 1 D, 1 L, 1 D, 5 D, 1 D, 6 D, 6 D, ",
+            "time": 18.947852849960327
+        },
+        {
+            "filename": "data_mzn_n8_m10_b8_bxl1_maxL2_t45_1.dzn",
+            "foundSol": false
+        },
+        {
+            "filename": "data_mzn_n6_m8_b6_bxl1_maxL2_t15_1.dzn",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 11,
+            "solution": "2 D, 4 R, 4 R, 6 R, 2 D, 3 D, 5 D, 3 D, 6 D, 5 D, 6 D, ",
+            "time": 19.158037662506104
+        },
+        {
+            "filename": "data_mzn_n8_m10_b8_bxl1_maxL2_t30_0.dzn",
+            "foundSol": true,
+            "isOptimum": false,
+            "optimum": 20,
+            "solution": "7 D, 7 D, 7 L, 7 D, 7 D, 7 D, 8 D, 4 R, 4 D, 6 D, 5 D, 8 R, 5 D, 6 D, 3 D, 5 D, 5 D, 3 D, 8 D, 8 D, ",
+            "time": 600.3417286872864
+        },
+        {
+            "filename": "data_mzn_n6_m8_b4_bxl1_maxL2_t45_0.dzn",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 14,
+            "solution": "3 L, 2 L, 3 D, 1 D, 3 D, 4 D, 1 D, 3 D, 3 D, 3 D, 2 D, 2 D, 4 D, 1 D, ",
+            "time": 7.839818716049194
+        },
+        {
+            "filename": "data_mzn_n8_m10_b8_bxl1_maxL2_t30_1.dzn",
+            "foundSol": false
+        },
+        {
+            "filename": "data_mzn_n6_m8_b8_bxl1_maxL2_t45_0.dzn",
+            "foundSol": true,
+            "isOptimum": false,
+            "optimum": 41,
+            "solution": "1 L, 7 U, 6 R, 7 U, 7 R, 7 U, 7 U, 6 R, 5 D, 2 R, 6 R, 6 R, 7 L, 2 R, 2 U, 2 U, 6 D, 6 D, 6 D, 6 D, 6 D, 3 D, 7 D, 8 U, 8 D, 7 D, 7 D, 7 D, 7 D, 7 D, 8 U, 8 D, 8 D, 8 L, 8 L, 2 D, 2 D, 2 D, 8 D, 2 D, 8 D, ",
+            "time": 600.3968601226807
+        },
+        {
+            "filename": "data_mzn_n6_m8_b4_bxl1_maxL2_t15_0.dzn",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 9,
+            "solution": "1 L, 1 D, 1 D, 1 D, 1 D, 2 R, 2 D, 2 D, 4 D, ",
+            "time": 0.9031026363372803
+        },
+        {
+            "filename": "data_mzn_n8_m10_b6_bxl1_maxL2_t45_1.dzn",
+            "foundSol": true,
+            "isOptimum": false,
+            "optimum": 27,
+            "solution": "2 R, 1 L, 3 D, 3 L, 6 L, 5 L, 3 L, 5 L, 2 D, 5 L, 2 D, 6 R, 6 L, 1 D, 1 D, 2 L, 4 D, 1 D, 2 D, 2 D, 2 D, 5 D, 5 D, 5 D, 5 D, 6 D, 6 D, ",
+            "time": 600.2795262336731
+        },
+        {
+            "filename": "data_mzn_n6_m8_b8_bxl1_maxL2_t30_1.dzn",
+            "foundSol": true,
+            "isOptimum": false,
+            "optimum": 16,
+            "solution": "4 D, 2 R, 4 D, 8 R, 7 R, 5 D, 3 D, 7 D, 7 D, 7 D, 7 D, 1 D, 6 D, 6 D, 1 D, 8 D, ",
+            "time": 600.3515303134918
+        },
+        {
+            "filename": "data_mzn_n6_m8_b4_bxl1_maxL2_t15_1.dzn",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 9,
+            "solution": "1 D, 2 D, 3 D, 3 D, 4 R, 4 R, 4 D, 4 D, 4 D, ",
+            "time": 1.112764596939087
+        },
+        {
+            "filename": "data_mzn_n6_m8_b6_bxl1_maxL2_t30_1.dzn",
+            "foundSol": true,
+            "isOptimum": false,
+            "optimum": 16,
+            "solution": "3 D, 4 R, 6 R, 5 D, 1 L, 1 D, 6 D, 5 L, 5 D, 5 D, 4 D, 6 D, 6 D, 5 D, 6 D, 6 D, ",
+            "time": 600.3006746768951
+        },
+        {
+            "filename": "data_mzn_n8_m10_b8_bxl1_maxL2_t15_0.dzn",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 12,
+            "solution": "5 D, 7 R, 2 L, 6 D, 3 D, 1 D, 6 D, 8 L, 1 D, 1 D, 7 D, 1 D, ",
+            "time": 142.50230264663696
+        },
+        {
+            "filename": "data_mzn_n6_m8_b6_bxl1_maxL2_t45_0.dzn",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 15,
+            "solution": "1 L, 3 R, 6 D, 6 D, 6 D, 6 D, 2 D, 6 D, 2 D, 5 D, 6 D, 2 D, 1 D, 2 D, 2 D, ",
+            "time": 38.19955825805664
+        },
+        {
+            "filename": "data_mzn_n8_m10_b4_bxl1_maxL2_t15_1.dzn",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 10,
+            "solution": "2 D, 2 L, 1 D, 3 L, 1 L, 3 D, 3 L, 3 D, 2 D, 1 D, ",
+            "time": 4.816600322723389
+        },
+        {
+            "filename": "data_mzn_n6_m8_b4_bxl1_maxL2_t30_1.dzn",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 14,
+            "solution": "1 L, 3 R, 3 D, 2 D, 2 D, 3 D, 3 D, 1 D, 1 D, 1 D, 3 D, 1 D, 3 D, 4 D, ",
+            "time": 17.026151657104492
+        },
+        {
+            "filename": "data_mzn_n6_m8_b4_bxl1_maxL2_t30_0.dzn",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 10,
+            "solution": "4 L, 4 D, 1 D, 2 R, 1 D, 3 D, 3 D, 3 D, 3 D, 3 D, ",
+            "time": 1.6541402339935303
+        },
+        {
+            "filename": "data_mzn_n8_m10_b6_bxl1_maxL2_t30_0.dzn",
+            "foundSol": true,
+            "isOptimum": false,
+            "optimum": 20,
+            "solution": "6 D, 6 D, 5 R, 2 L, 6 D, 2 D, 4 D, 5 D, 5 D, 4 D, 1 D, 1 D, 1 L, 1 D, 5 R, 1 L, 1 L, 1 D, 1 D, 5 D, ",
+            "time": 600.2518358230591
+        },
+        {
+            "filename": "data_mzn_n8_m10_b4_bxl1_maxL2_t15_0.dzn",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 9,
+            "solution": "2 D, 1 L, 1 D, 3 D, 2 L, 4 D, 4 L, 4 D, 3 L, ",
+            "time": 2.948296070098877
+        },
+        {
+            "filename": "data_mzn_n6_m8_b8_bxl1_maxL2_t45_1.dzn",
+            "foundSol": true,
+            "isOptimum": false,
+            "optimum": 17,
+            "solution": "4 L, 5 D, 3 D, 1 L, 1 L, 6 D, 1 D, 7 D, 7 D, 6 D, 8 D, 8 D, 8 D, 8 D, 5 D, 6 D, 8 D, ",
+            "time": 600.4360458850861
+        },
+        {
+            "filename": "data_mzn_n8_m10_b6_bxl1_maxL2_t15_0.dzn",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 13,
+            "solution": "3 D, 3 D, 4 D, 5 D, 5 D, 5 D, 6 D, 2 D, 2 D, 6 R, 6 D, 6 D, 6 D, ",
+            "time": 28.193439245224
+        },
+        {
+            "filename": "data_mzn_n6_m8_b8_bxl1_maxL2_t15_1.dzn",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 12,
+            "solution": "5 R, 6 D, 7 L, 5 D, 2 L, 7 D, 1 D, 8 D, 7 D, 7 D, 7 D, 7 D, ",
+            "time": 13.95868444442749
+        },
+        {
+            "filename": "data_mzn_n6_m8_b4_bxl1_maxL2_t45_1.dzn",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 15,
+            "solution": "3 L, 3 D, 4 L, 4 D, 2 D, 1 D, 4 D, 2 D, 2 D, 1 D, 1 D, 1 D, 1 D, 4 D, 2 D, ",
+            "time": 36.52250123023987
+        },
+        {
+            "filename": "data_mzn_n8_m10_b4_bxl1_maxL2_t30_0.dzn",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 13,
+            "solution": "3 D, 3 L, 4 D, 2 L, 1 D, 1 L, 2 D, 4 D, 3 L, 2 D, 4 D, 4 L, 2 D, ",
+            "time": 53.85153794288635
+        },
+        {
+            "filename": "data_mzn_n8_m10_b6_bxl1_maxL2_t30_1.dzn",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 14,
+            "solution": "1 L, 2 R, 6 R, 5 L, 1 L, 6 D, 4 D, 6 D, 2 D, 4 D, 1 D, 6 D, 6 D, 4 D, ",
+            "time": 280.18998551368713
+        },
+        {
+            "filename": "data_mzn_n8_m10_b6_bxl1_maxL2_t45_0.dzn",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 14,
+            "solution": "3 D, 4 L, 6 L, 4 D, 2 L, 5 D, 4 D, 4 D, 5 D, 3 D, 4 D, 2 D, 1 D, 1 D, ",
+            "time": 102.53655457496643
+        },
+        {
+            "filename": "data_mzn_n6_m8_b8_bxl1_maxL2_t30_0.dzn",
+            "foundSol": true,
+            "isOptimum": false,
+            "optimum": 24,
+            "solution": "1 U, 3 R, 2 D, 8 L, 5 L, 8 D, 1 D, 1 U, 1 D, 1 D, 1 D, 5 D, 5 R, 6 D, 6 D, 4 D, 6 D, 1 D, 1 D, 7 D, 7 D, 7 D, 4 R, 4 D, ",
+            "time": 600.2593655586243
+        },
+        {
+            "filename": "data_mzn_n6_m8_b6_bxl1_maxL2_t30_0.dzn",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 12,
+            "solution": "1 L, 5 R, 5 R, 4 D, 5 D, 5 D, 3 D, 5 D, 5 D, 1 D, 1 D, 1 D, ",
+            "time": 100.94290542602539
+        },
+        {
+            "filename": "data_mzn_n8_m10_b4_bxl1_maxL2_t45_0.dzn",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 15,
+            "solution": "3 D, 1 D, 3 L, 3 D, 3 L, 3 D, 2 D, 3 D, 3 D, 1 D, 1 D, 4 L, 4 D, 4 D, 4 L, ",
+            "time": 15.380704641342163
+        },
+        {
+            "filename": "data_mzn_n6_m8_b8_bxl1_maxL2_t15_0.dzn",
+            "foundSol": true,
+            "isOptimum": true,
+            "optimum": 9,
+            "solution": "1 L, 2 D, 6 R, 7 D, 5 D, 7 D, 1 D, 1 D, 8 D, ",
+            "time": 3.5518734455108643
+        },
+        {
+            "filename": "data_mzn_n8_m10_b4_bxl1_maxL2_t45_1.dzn",
+            "foundSol": true,
+            "isOptimum": false,
+            "optimum": 17,
+            "solution": "1 L, 3 L, 3 L, 3 L, 4 D, 4 L, 4 L, 1 D, 2 D, 2 D, 2 L, 2 L, 1 D, 3 D, 1 D, 1 D, 4 D, ",
+            "time": 600.2919762134552
+        },
+        {
+            "filename": "data_mzn_n8_m10_b4_bxl1_maxL2_t30_1.dzn",
+            "foundSol": true,
+            "isOptimum": false,
+            "optimum": 16,
+            "solution": "3 L, 2 L, 2 D, 1 L, 3 L, 1 L, 1 D, 3 D, 4 L, 4 L, 4 D, 3 D, 1 D, 1 D, 3 D, 1 D, ",
+            "time": 600.2035675048828
+        },
+        {
+            "filename": "data_mzn_n6_m8_b6_bxl1_maxL2_t45_1.dzn",
+            "foundSol": true,
+            "isOptimum": false,
+            "optimum": 21,
+            "solution": "2 D, 6 R, 4 R, 1 L, 4 D, 1 L, 1 D, 6 D, 5 D, 5 D, 4 D, 3 D, 3 D, 3 D, 3 D, 3 D, 3 D, 1 D, 1 D, 5 D, 5 D, ",
+            "time": 600.2892210483551
+        }
+    ],
+    "timelimit": 600
+}
