@@ -28,5 +28,3 @@ To solve the problem, two different programming paradigms were used: Constraint 
 In the first approach, the problem was modeled as a decision version, with a fixed number of moves and the search for a solution that used exactly that number of pushes. This method ensures the optimal solution but does not detect inadmissible instances of the problem without further information. Additionally, a significant slowdown was observed as the optimal value increased.
 
 A second approach was adopted to tackle the problem as an optimization, by defining an upper limit on the number of required moves and letting the solver find progressively better solutions. This method allows for checking the inadmissibility of an instance and gradually improving the solution found, but it's not applicable when it's impossible to limit the number of moves.
-
-
